@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-[Acesse o projeto finalizado, online](https://marcelgava.github.io/stage02-projeto02/)
+[Acesse o projeto finalizado, online](https://marcelgava.github.io/desafio02-corrigindoBugs/)
